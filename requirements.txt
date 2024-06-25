@@ -7,3 +7,4 @@ fastapi-security
 databases 
 asyncpg
 pytest
+openpyxl
